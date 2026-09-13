@@ -16,7 +16,7 @@ Add styles to previous project. Focus on layout and responsive design.
 Bonus:
 
 - [x] Utilize Google Fonts
-- [x] Link to GitHub pages
+- [ ] Link to GitHub pages
 - [x] Add dark mode support
 
 [Click here to see the result]
